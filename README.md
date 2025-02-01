@@ -1,4 +1,5 @@
 LearniChat: A Chatbot That Learns from Users
+
 LearniChat is an interactive chatbot designed to collect and learn from user-provided natural language 
 responses. Instead of relying on predefined responses, LearniChat continuously expands its knowledge base 
 by engaging with users and storing their answers. 
@@ -6,6 +7,7 @@ This project aims to gather diverse conversational data to better understand hum
 which can later be used for data analysis and AI model training.
 
 How It Works
+
 The chatbot starts with minimal knowledge and learns from every interaction.
 If it encounters an unknown question, it asks the user how it should respond.
 The user can provide a response, which gets stored in the chatbot’s memory for future conversations.
