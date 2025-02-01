@@ -30,6 +30,5 @@ Features
 - Data Storage for Future Analysis – Saves collected conversations in a JSON file for later research and
   AI training.
 
-Contributing
 Contributions are welcome!! I hope all of you can use this ChatBot and provide me with enough data for future 
 analysis so I can work towards creating a robust ChatBot that can provide companionship to those that need it.
